@@ -1,4 +1,4 @@
-Hi, I'm Chukwuemeka Oguaju-Dike 👋🏾
+### Hi, I'm Chukwuemeka Oguaju-Dike 👋🏾
 
 ### Healthcare Data Analyst · MBBS · Physician turned data professional
 
