@@ -1,4 +1,4 @@
-[Tower-king_Profile_README.md](https://github.com/user-attachments/files/29378811/Tower-king_Profile_README.md)[Uploading Tower-# Hi, I'm Chukwuemeka Oguaju-Dike 👋🏾
+Hi, I'm Chukwuemeka Oguaju-Dike 👋🏾
 
 ### Healthcare Data Analyst · MBBS · Physician turned data professional
 
