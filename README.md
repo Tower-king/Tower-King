@@ -1,12 +1,3 @@
-[Tower-king_Profile_README.md](https://github.com/user-attachments/files/29378576/Tower-king_Profile_README.md)
-## Hi there 👋
-
-<!--
-**Tower-king/Tower-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# Hi, I'm Chukwuemeka Oguaju-Dike 👋🏾
-
 ### Healthcare Data Analyst · MBBS · Physician turned data professional
 
 I sit at a rare intersection — I trained as a medical doctor and I build data pipelines, dashboards, and analytical tools for healthcare. Most analysts learn the data side. I already knew the clinical side. That combination is what makes my work different.
